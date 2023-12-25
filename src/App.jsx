@@ -150,7 +150,7 @@ function App() {
     <Route path='/dscience' element={<DScience cards={dscience} />} />
     <Route path='/cyber' element={<Cyber cards={cyber}/>}/>
     <Route path='/career' element={<Career cards={career}/>}/>
-    {/* <Route path ='*' element={<Navigate to='/home'/>}/> */}
+    <Route path ='*' element={<Navigate to={'/home'} replace/>}/>
   </Routes>
   </BrowserRouter>
   )
