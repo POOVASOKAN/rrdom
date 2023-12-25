@@ -1,8 +1,8 @@
-# React + Vite
+created a web page with routes using react-router-dom.
+Design Reference: The design of the page should be based on the following URL: https://www.guvi.in/blog/
+1) Designed HTML, CSS for the page and imported them in React files
+2) Created arrays based on the Nav items and linked using link tag in Navbar
+3) Created components and rendered the cards based on the Map method in the corresponding cards
+4) By default it displays the Home page using the Route path
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Enjoyed Creating !!!! 
