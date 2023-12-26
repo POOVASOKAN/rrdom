@@ -97,11 +97,11 @@ function App() {
       },
       {
         id: 9,
-        title: "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
+        title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences!",
         category:"Cyber security",
-        src: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        src: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
         content:
-          "Look around today, you will witness that we are more reliant on technology and devices",
+          "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
         date: "20 December 2023",
         comments: "No comments",
       },
