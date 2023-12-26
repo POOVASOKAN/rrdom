@@ -97,12 +97,12 @@ function App() {
       },
       {
         id: 9,
-        title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+        title: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
         category:"Cyber security",
-        src: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+        src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
         content:
-          "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
-        date: "25 December 2023",
+          "In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills",
+        date: "04 December 2023",
         comments: "No comments",
       },
   ]
