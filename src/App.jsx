@@ -97,12 +97,12 @@ function App() {
       },
       {
         id: 9,
-        title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences!",
+        title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
         category:"Cyber security",
         src: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
         content:
           "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
-        date: "20 December 2023",
+        date: "25 December 2023",
         comments: "No comments",
       },
   ]
@@ -110,16 +110,6 @@ function App() {
   let career =[
     {
       id: 10,
-      title: "UI/UX Designer Job Description and Roles & Responsibilities",
-      category:"Career",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
-      content:
-        "UI UX is the abbreviated word that’s been rocking the trend over the years, especially",
-      date: "13 December 2023",
-      comments: "No comments",
-    },
-    {
-      id: 11,
       title: "Top 5 IT Jobs for Economics Students",
       category:"Career",
       src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp",
@@ -129,12 +119,22 @@ function App() {
       comments: "No comments",
     },
     {
-      id: 12,
+      id: 11,
       title: "Top IT Jobs for Commerce Students: A Lucrative Career Path",
       category:"Career",
       src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
       content:
         "With the rapid advancement of technology, the demand for IT professionals has soared in recent",
+      date: "04 December 2023",
+      comments: "No comments",
+    },
+    {
+      id: 12,
+      title: "Automation Test Engineer Resume: 10 Important Things To Consider",
+      category:"Career",
+      src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Automation-Test-Engineer-Resume-Important-Things-To-Consider.webp",
+      content:
+        "The world is moving towards automating the testing of products in order to increase work",
       date: "03 December 2023",
       comments: "No comments",
     }
