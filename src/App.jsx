@@ -63,7 +63,7 @@ function App() {
       comments: "No comments",
     },
     {
-      id: 10,
+      id: 6,
       title: "What is the Difference between Data Science and Data Engineering?",
       category:"Data Science",
       src: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Difference-between-Data-Science-and-Data-Engineering.webp",
